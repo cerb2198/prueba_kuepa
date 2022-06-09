@@ -1,3 +1,6 @@
+# IMPORTANTE
+### Se uso reqres.io para el consumo, ya que las apis requeridas que proporcionaron, estan caidas.
+
 # Iniciando el proyecto
 - Para iniciar el proyecto es necesario clonar el repositorio en alguna carpeta.
 - Finalizado lo anterior, ejecutar con la terminal de comandos desde la carpeta clonada "npm install"
@@ -9,6 +12,3 @@
 - Fecha y hora en tiempo real con moment
 - Componentes con Material UI
 - Entre otras cosas que se pueden ver revisando el proyecto
-
-# NOTA
-### Se uso reqres.io para el consumo, ya que las apis requeridas que proporcionaron, estan caidas.
