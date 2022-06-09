@@ -1,0 +1,38 @@
+.navbar {
+    position: absolute;
+    left: 0;
+    padding: 0;
+    margin: 0;
+    width:8%;
+    height:100vh;
+    background-color:var(--clrPrimario);    
+}
+
+.navbar__contenedor__logo {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.navbar__logo {
+    margin: 1rem 0rem;
+    width: 50%;
+}
+
+.navbar__tabs__icon {
+    color:var(--clrIconosNav);
+    font-size:150%;
+}
+
+.navbar__perfil {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    position: absolute;
+    bottom: 0;
+    margin: 1rem 0rem;
+
+    width: 100%;
+}

@@ -1,0 +1,20 @@
+.contenido{
+    position: absolute;
+    right: 0;
+
+    height: 100vh;
+    width: 92%;
+
+    margin:0;
+    padding: 0;
+
+    border-top-left-radius: 3rem;
+    border-bottom-left-radius: 3rem;
+
+    background-color: var(--clrFondo);
+
+    overflow-y: scroll;
+
+    z-index: 1;
+}
+

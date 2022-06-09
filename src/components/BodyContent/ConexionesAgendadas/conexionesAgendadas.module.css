@@ -1,0 +1,31 @@
+.circulo {
+    width:15px;
+    height:15px;
+    border-radius: 100%;
+    background-color:var(--clrSecundario);
+}
+
+.icono__llamar {
+    font-size: 120%;
+    color:var(--clrSecundario);
+    cursor:pointer;
+
+    transition: all 0.5s ease-in-out;
+}
+
+.icono__llamar:hover {
+    transform: scale(1.2);
+}
+
+.icono__mensaje {
+    font-size: 120%;
+    color:var(--clrPrimario);
+    cursor:pointer;
+
+    transition: all 0.5s ease-in-out;
+
+}
+
+.icono__mensaje:hover {
+    transform: scale(1.2);
+}
