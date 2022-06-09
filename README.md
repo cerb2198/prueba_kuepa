@@ -1,5 +1,6 @@
 # IMPORTANTE
 ### Se uso reqres.io para el consumo, ya que las apis requeridas que proporcionaron, estan caidas.
+*Link de la pagina:* **https://crmhomekuepa.netlify.app/**
 
 # Iniciando el proyecto
 - Para iniciar el proyecto es necesario clonar el repositorio en alguna carpeta.
